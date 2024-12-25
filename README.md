@@ -92,5 +92,7 @@
 ![img](https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task3/Screenshot%20from%202024-12-25%2016-08-35.png)
 
 **"https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task3/haproxy.cfg"**
+
 **"https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task3/nginx.conf"**
+
 **"https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task3/default"**
