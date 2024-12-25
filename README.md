@@ -73,12 +73,16 @@
 
 ### Задание 1
 
-
+![img](https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task1/Screenshot%20from%202024-12-23%2022-38-03.png)
 
 ### Задание 2
 
-
+![img](https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task2/Screenshot%20from%202024-12-24%2015-30-31.png)
 
 ### Задание 3
 
-
+![img](https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task3/Screenshot%20from%202024-12-25%2016-06-00.png)
+![img](https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task3/Screenshot%20from%202024-12-25%2016-06-39.png)
+![img]()
+![img]()
+![img]()
