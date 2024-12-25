@@ -77,6 +77,7 @@
 
 ### Задание 2
 
+**"https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task1/haproxy.cfg"**
 ![img](https://github.com/01eg8/HAProxy-Nginx-Oleg-Makin/blob/main/task2/Screenshot%20from%202024-12-24%2015-30-31.png)
 
 ### Задание 3
